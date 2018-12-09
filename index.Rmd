@@ -1,5 +1,0 @@
----
-title: "Bella's Website"
----
-    
-Hi, mom! This is my new website!
